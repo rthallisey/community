@@ -3685,6 +3685,36 @@ workinggroups:
     liaison:
       github: saschagrunert
       name: Sascha Grunert
+- dir: wg-maintenance
+  name: Maintenance
+  mission_statement: >
+    Enhance support for Maintenance in Kuberenentes.
+
+  charter_link: charter.md
+  stakeholder_sigs:
+  - Architecture
+  - Node
+  - Scheduling
+  label: maintenance
+  leadership:
+    chairs:
+    - github: atiratree
+      name: Filip Křepinský
+      company: Red Hat
+      email: fkrepins@redhat.com
+    - github: rthallisey
+      name: Ryan Hallisey
+      company: NVIDIA
+      email: rhallisey@nvidia.com
+  meetings:
+  - description: WG Maintenance Weekly Meeting
+    day: ""
+    time: ""
+    tz: ""
+    frequency: weekly
+  contact:
+    slack: wg-maintenance
+    mailing_list: https://groups.google.com/a/kubernetes.io/g/wg-maintenance
 - dir: wg-policy
   name: Policy
   mission_statement: >

@@ -55,6 +55,7 @@ subprojects, and resolve cross-subproject technical issues and decisions.
 The following [working groups][working-group-definition] are sponsored by sig-node:
 * [WG Batch](/wg-batch)
 * [WG Device Management](/wg-device-management)
+* [WG Maintenance](/wg-maintenance)
 * [WG Policy](/wg-policy)
 * [WG Serving](/wg-serving)
 * [WG Structured Logging](/wg-structured-logging)
